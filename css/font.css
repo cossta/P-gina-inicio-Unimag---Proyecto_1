@@ -1,0 +1,11 @@
+@font-face{	font-family:arial; }
+a, span{
+    font-weight: 500;
+    color: white;
+}
+header p{
+    color: white;
+}
+img + p{
+font-weight:lighter;
+}
